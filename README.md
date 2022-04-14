@@ -15,7 +15,8 @@
 
 이번에 벚꽃이 예쁘게 핀걸 보면서 벚꽃에서 츄랑 사진찍고싶다는 마음을 담아 벚꽃을 배경으로 설정했습니다.
 
-![IMG_6532]{: width="100" height="100"}(https://user-images.githubusercontent.com/78894678/163407451-6cf74845-99c0-4b5a-80a8-aecca63e0a77.jpg)
+
+<img src="https://user-images.githubusercontent.com/78894678/163407451-6cf74845-99c0-4b5a-80a8-aecca63e0a77.jpg" width="100"/>
 
 실제 츄사진
 ---
